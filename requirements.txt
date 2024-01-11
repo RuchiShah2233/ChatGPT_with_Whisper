@@ -1,0 +1,9 @@
+os
+speech_recognition
+sys
+whisper
+time 
+openai
+re 
+pydub
+PyAudio
